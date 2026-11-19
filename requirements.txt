@@ -1,0 +1,6 @@
+# Runtime: standard library only (Python 3.9+).
+# Tests and Answer.frame():
+pandas>=2.0
+pytest>=7.0
+# Only for tools/bench_writers.py:
+# polars>=1.0
